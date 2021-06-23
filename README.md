@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3> 💻  Stack </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k010103&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tucapulcinelli&layout=compact&theme=nord)](https://github.com/tucapulcinelli)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k010103&layout=compact&theme=nord)](https://github.com/k010103)
 
 ---
 <h3> BOJ </h3>
