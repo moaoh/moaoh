@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 
 <h3> 💻  Stack </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k010103&show_icons=true&theme=gruvbox)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k010103&show_icons=true&theme=gruvbox)](https://github.com/k010103)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k010103&layout=compact&theme=nord)](https://github.com/k010103)
 
 ---
 <h3> BOJ </h3>
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k010103)
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junmkang)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k010103)](https://solved.ac/k010103/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junmkang)](https://solved.ac/junmkang/)
 
 ---
 
