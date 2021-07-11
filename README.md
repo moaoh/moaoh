@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3> 🏫  42 Seoul </h3>
 
 [![junmkang's 42 stats](https://badge42.herokuapp.com/api/stats/junmkang)](https://github.com/k010103)
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/50203674/125195599-4b83db80-e291-11eb-91fc-f04f686b787d.gif" width="250" height="250" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/50203674/125195599-4b83db80-e291-11eb-91fc-f04f686b787d.gif" width="200" height="200" />
 
 ---
 
