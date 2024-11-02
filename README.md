@@ -17,7 +17,7 @@
 ---
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=k010103)](https://solved.ac/profile/k010103)
-<a href="https://moaoh.dev/">
+<a href="https://jun-13.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
