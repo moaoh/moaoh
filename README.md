@@ -27,7 +27,9 @@
 
 ![c](https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=#A8B9CC)
 ![cplusplus](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cplusplus&logoColor=#00599C)
+<!--
 ![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=Java&logoColor=#007396)
 ![springboot](https://img.shields.io/badge/SpringBoot-323330?style=for-the-badge&logo=springboot&logoColor=#6DB33F)
+-->
 
 ---
